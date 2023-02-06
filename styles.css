@@ -3,3 +3,7 @@ p{
     font-display:inherit;
     background-color: rgb(83, 15, 242);
 }
+h1{
+    font-size: 80px;
+    color: aqua;
+}
